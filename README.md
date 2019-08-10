@@ -1,4 +1,4 @@
-Game deployed on: https://dashboard.heroku.com/apps/darts-game
+Game deployed on: https://darts-game.herokuapp.com/
 
 I started practising for the darts game named Killer.
 Try to shoot for the number for 3 rounds, then for the next number, and the next..
